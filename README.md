@@ -98,6 +98,6 @@ customer-behaviour-analysis/
 
 ## Scope and interpretation
 
-This project is an exploratory analysis of the supplied 3,900-row dataset. Customer maturity and age groups are rule-based segments created for comparison; they are not validated predictive models. Purchase-frequency labels are mapped to approximate day counts. The reported relationships are descriptive and should not be interpreted as evidence that a customer attribute, discount or subscription causes a change in spending.
+This project is an exploratory analysis of the supplied 3,900-row dataset. Customer maturity and age groups are rule-based segments created for comparison; they are not validated predictive models. Purchase-frequency labels are mapped to approximate day counts.
 
-**Implementation note:** The accompanying PDF's architecture slide refers to PostgreSQL. The executable SQL queries and optional Python database loader in this repository currently target Microsoft SQL Server and T-SQL.
+

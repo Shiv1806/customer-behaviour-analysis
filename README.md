@@ -10,7 +10,7 @@ An end-to-end retail analytics project exploring 3,900 shopping transactions acr
 
 The Power BI dashboard brings key measures and comparisons into one view, with filters for gender, subscription status, product category and shipping type.
 
-**Project report:** [Customer Shopping Behavior Analysis (PDF)](reports/Customer-Shopping-Behavior-Analysis.pdf)  
+**Project report:** [Customer Shopping Behavior Analysis (PDF)](reports/Customer-Shopping-Behavior-Analysis-SQL.pdf)  
 **Power BI report:** [Customer Behaviour Dashboard (.pbix)](powerbi/Customer_Behaviour_Dashboard.pbix)
 
 ## Project at a glance

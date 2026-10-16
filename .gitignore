@@ -1,19 +1,1 @@
-# Python
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-.env
 
-# Local data (do not commit customer-level data unless you have permission)
-data/raw/*
-!data/raw/README.md
-!data/raw/customer_shopping_behavior.csv
-data/processed/*
-!data/processed/README.md
-
-# Local/editor files
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
